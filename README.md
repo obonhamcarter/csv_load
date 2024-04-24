@@ -29,4 +29,4 @@ The code requires [Poetry](https://python-poetry.org/docs/) for execution.
 
 ## Data
 
-The included data (`tatanic.csv`) is from the following reference; [https://github.com/datasciencedojo/datasets/blob/master/titanic.csv](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv).
+The included data (`titanic.csv`) is from the following reference; [https://github.com/datasciencedojo/datasets/blob/master/titanic.csv](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv).
